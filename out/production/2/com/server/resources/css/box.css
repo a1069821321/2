@@ -1,0 +1,72 @@
+
+#hbox_content{
+    -fx-padding: 10 10 10 10;
+    -fx-background-color: #CCCCCC;
+}
+#box_first_area{
+    //#F7F7F7
+    -fx-background-radius: 10.0;
+    -fx-spacing: 30;
+    -fx-padding: 0 0 0 0;
+    -fx-border-width: 2px;
+}
+
+#m_title_area{
+    -fx-alignment: center;
+}
+
+/*/////////////////////////////////*/
+.accordion_a{
+    -fx-background-insets: 0;
+    -fx-background-color:#666666;
+    -fx-padding: 0 0 0 0;
+}
+.box_second_area{
+    -fx-spacing: 10;
+    -fx-padding: 0 0 0 0;
+    -fx-pref-width: 500;
+}
+
+.box_content{
+    /*上右下左*/
+    -fx-padding: 15 0 18 12;
+    -fx-spacing: 10;
+    -fx-background-color:#999999;
+}
+.box_third_area{
+    /*上右下左*/
+    -fx-padding: 0 0 0 0;
+    -fx-spacing: 10;
+    -fx-background-color: transparent;
+}
+
+
+/* 后面是小窗口的样式/////////////////////////////////////  */
+.connect_set_label{
+    -fx-font-size: 16;
+    -fx-pref-height: 30;
+}
+.connect_set_vbox{
+    -fx-padding: 35 0 0 20;
+    -fx-spacing: 20;
+    -fx-pref-width: 380;
+    -fx-pref-height: 150;
+
+}
+.connect_set_s{
+    -fx-spacing: 14;
+}
+.connect_set_c{
+    -fx-spacing: 26;
+    -fx-padding: 0 0 3 5;
+
+}
+.connect_set_e{
+    -fx-padding: 5 0 0 110;
+}
+#text_area{
+
+}
+#sps_renew{
+
+}

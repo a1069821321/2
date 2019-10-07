@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/jars" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/a.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/server/Main_window.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/server/modules/DATA_FORM" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/server/modules/DragListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/server/modules/DragUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/server/modules/DrawLineTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/server/modules/GetTestData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/server/modules/GetTime.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/server/modules/MainTray.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/server/modules/MessagePrint.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/server/modules/Properate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/server/modules/ReadTxt.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/server/modules/Server.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/server/modules/Server_RequestResponse.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/server/modules/Server_Writer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/server/modules/备份代码.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/server/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

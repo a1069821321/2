@@ -1,0 +1,109 @@
+#root {
+	-fx-border-width:1;
+	-fx-border-color:#000;
+}
+
+#top {
+	-fx-background-color: #333333;
+}
+
+#winClose {
+	-fx-cursor:hand;
+	-fx-background-color:transparent;
+	-fx-background-image:url("../imgs/winClose_3.png");
+	-fx-background-repeat:no-repeat;
+	-fx-pref-height: 20;
+	-fx-pref-width: 20;
+}
+
+#winClose:hover {
+	-fx-background-image:url("../imgs/winClose_1_noborder.png");
+}
+/*
+#winMin:pressed {
+	-fx-background-image:url("../imgs/winMin_2.png");
+}
+#winClose:pressed {
+	-fx-background-image:url("../imgs/winClose_2.png");
+}
+ */
+
+
+#winMin {
+	 -fx-cursor:hand;
+	 -fx-background-color:transparent;
+	 -fx-background-image:url("../imgs/winMin_0.png");
+	 -fx-background-repeat:no-repeat;
+	 -fx-pref-height: 20;
+	 -fx-pref-width: 20;
+ }
+
+#winUser {
+	-fx-cursor:hand;
+	-fx-background-color:transparent;
+	-fx-background-image:url("../imgs/user_0.png");
+	-fx-background-repeat:no-repeat;
+	-fx-pref-height: 20;
+	-fx-pref-width: 20;
+}
+
+#winMax_2 {
+	-fx-cursor:hand;
+	-fx-background-color:transparent;
+	-fx-background-image:url("../imgs/winMax_3.png");
+	-fx-background-repeat:no-repeat;
+	-fx-pref-height: 20;
+	-fx-pref-width: 20;
+}
+#winMax_2:hover {
+	-fx-background-image:url("../imgs/winMax_4.png");
+}
+
+
+#winMax {
+	-fx-cursor:hand;
+	-fx-background-color:transparent;
+	-fx-background-image:url("../imgs/winMax_0.png");
+	-fx-background-repeat:no-repeat;
+	-fx-pref-height: 20;
+	-fx-pref-width: 20;
+}
+
+#winMax:hover {
+	-fx-background-image:url("../imgs/winMax_1.png");
+}
+
+
+#winDown {
+	-fx-cursor:hand;
+	-fx-background-color:transparent;
+	-fx-background-image:url("../imgs/down_0.png");
+	-fx-background-repeat:no-repeat;
+	-fx-pref-height: 20;
+	-fx-pref-width: 20;
+}
+
+#winDown:hover {
+	-fx-background-image:url("../imgs/down_1.png");
+}
+
+#winMin:hover {
+	-fx-background-image:url("../imgs/winMin_1.png");
+}
+
+#sureExit{
+	-fx-position-shape:relative;
+	-fx-left: 30px;
+	-fx-top: 20px;
+}
+#logo{
+	-fx-background-image:url("../icos/25_0.png");
+	-fx-pref-height: 25;
+	-fx-pref-width: 25;
+}
+#tit{
+	-fx-text-fill: #DDDDDD;
+	-fx-pref-height: 25;
+	-fx-pref-width: 100;
+
+}
